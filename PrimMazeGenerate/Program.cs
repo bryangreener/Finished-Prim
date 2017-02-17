@@ -27,7 +27,14 @@ namespace PrimMazeGenerate
 
             // Generate weight values for each index in weight array.
             // This is used to determine the location to move to later on.
-            for (int i = 0; i < 1000000; i++)
+            //
+            // !! - CHANGE THE VALUE IN "i<####" TO ANY NUMBER WHERE # mod ( #/10) == 0
+            // Runtime on i7 4790k, 32GB RAM, SSD:
+            // 1,000     = 12ms
+            // 100,000   = 65s
+            // 1,000,000 = 131m
+
+            for (int i = 0; i < 100000; i++)
             {
                 weight.Add(rnd.Next(1, 10));
             }

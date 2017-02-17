@@ -1,1 +1,6 @@
 E:\git\CODING\PrimMazeGenerate\PrimMazeGenerate\bin\Debug\PrimMazeGenerate.exe.config
+E:\git\CODING\PrimMazeGenerate\PrimMazeGenerate\bin\Debug\PrimMazeGenerate.exe
+E:\git\CODING\PrimMazeGenerate\PrimMazeGenerate\bin\Debug\PrimMazeGenerate.pdb
+E:\git\CODING\PrimMazeGenerate\PrimMazeGenerate\obj\Debug\PrimMazeGenerate.csprojResolveAssemblyReference.cache
+E:\git\CODING\PrimMazeGenerate\PrimMazeGenerate\obj\Debug\PrimMazeGenerate.exe
+E:\git\CODING\PrimMazeGenerate\PrimMazeGenerate\obj\Debug\PrimMazeGenerate.pdb
